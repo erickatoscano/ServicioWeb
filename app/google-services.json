@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "473162626139",
+    "firebase_url": "https://servicioweb-95ecf.firebaseio.com",
+    "project_id": "servicioweb-95ecf",
+    "storage_bucket": "servicioweb-95ecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473162626139:android:2efc5e6096ae8e61",
+        "android_client_info": {
+          "package_name": "com.example.administrador.servicioweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473162626139-4sqr3mf4446jpghm34aaooujsh5lnnra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1O-krg3InPRZ1R-TWMX6GEzQmSopK7Ek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
